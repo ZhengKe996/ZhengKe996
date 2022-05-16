@@ -11,8 +11,7 @@
 <code><img height="20" src="https://coco-img.oss-cn-hangzhou.aliyuncs.com/icon/react.png"></code>
 <code><img height="20" src="https://coco-img.oss-cn-hangzhou.aliyuncs.com/icon/nodejs.png"></code>
 <code><img height="20" src="https://coco-img.oss-cn-hangzhou.aliyuncs.com/icon/java.png"></code>
-<code><img height="20" src="https://coco-img.oss-cn-hangzhou.aliyuncs.com/icon/mysql.png"></code>
-<code><img height="20" src="https://coco-img.oss-cn-hangzhou.aliyuncs.com/icon/git.png"></code>
+
 
 
 ![Mehdi's github stats](https://github-readme-stats.vercel.app/api?username=ZhengKe996&show_icons=true&hide_border=true)
